@@ -44,6 +44,6 @@ int main()
 
 int Final_sum=0;
 Final_sum=sum_t1+sum_t2+sum_t3+sum_t4+sum_t5+sum_t6+sum_t7+sum_t8+sum_t9+sum_t10;
-printf("Final SUM %d\n",+Final_sum);
+printf("Final SUM %d\n",Final_sum);
 return 0;
 }
